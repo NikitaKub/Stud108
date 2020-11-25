@@ -4,5 +4,9 @@ using namespase std;
 
 int main ()
 {
+char s;
 cout << "Here is nothing to you..." << endl;
+cout << "If you want see something here, just write something here:" << endl;
+cin >> s;
+cout << "Hehe, its your writing: " << s << endl;
 }
